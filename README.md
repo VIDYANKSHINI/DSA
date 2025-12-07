@@ -1,2 +1,2 @@
 # DSA
-This is my DSA project
+This is my DSA project.
